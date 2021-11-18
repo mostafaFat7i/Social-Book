@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ed4c54</color>
+    <color name="colorPrimaryDark">#BA1A1A1A</color>
+    <color name="colorAccent">#E9EBEE</color>
+    <color name="mainBackground">#D7D7D7</color>
+    <color name="senderColor">#A0179E</color>
+
+
+
+    <color name="colorDARKGREEN">#006400</color>
+    <color name="colorYELLOWGREEN">#9ACD32</color>
+    <color name="colorMEDIUMSPRINGGREEN">#00FA9A</color>
+    <color name="colorLIME">#00FF00</color>
+    <color name="colorMIDNIGHTBLUE">#191970</color>
+    <color name="colorDARKBLUE">#00008B</color>
+    <color name="colorMEDIUMBLUE">#0000CD</color>
+    <color name="colorBLUE">#0000FF</color>
+    <color name="colorDODGERBLUE">#1E90FF</color>
+    <color name="colorDEEPSKYBLUE">#00BFFF</color>
+    <color name="colorLIGHTSKYBLUE">#87CEFA</color>
+    <color name="colorAQUAMARINE">#7FFFD4</color>
+    <color name="colorCYAN">#00FFFF</color>
+    <color name="colorTEAL">#008080</color>
+    <color name="colorINDIGO">#4B0082</color>
+    <color name="colorPURPLE">#800080</color>
+    <color name="colorREBECCAPURPLE">#663399</color>
+    <color name="colorSLATEBLUE">#6A5ACD</color>
+    <color name="colorMEDIUMSLATEBLUE">#7B68EE</color>
+    <color name="colorMEDIUMVIOLETRED">#C71585</color>
+    <color name="colorDEEPPINK">#FF1493</color>
+    <color name="colorFUCHSIA">#FF00FF</color>
+    <color name="colorORANGERED">#FF4500</color>
+    <color name="colorDARKORANGE">#FF8C00</color>
+    <color name="colorORANGE">#FFA500</color>
+    <color name="colorGOLD">#FFD700</color>
+    <color name="colorYELLOW">#FFFF00</color>
+    <color name="colorDARKRED">#8B0000</color>
+    <color name="colorCRIMSON">#DC143C</color>
+    <color name="colorLIGHTSALMON">#FFA07A</color>
+    <color name="colorINDIANRED">#CD5C5C</color>
+    <color name="colorMAROON">#800000</color>
+    <color name="colorBROWN">#A52A2A</color>
+    <color name="colorSIENNA">#A0522D</color>
+    <color name="colorCHOCOLATE">#D2691E</color>
+    <color name="colorGOLDENROD">#DAA520</color>
+    <color name="colorSANDYBROWN">#F4A460</color>
+    <color name="colorLightGray">#CECECE</color>
+    <color name="colorGray">#999999</color>
+    <color name="colorWhite">#fff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="firstBackColor">#322F2F</color>
+    <color name="secondBackColor">#2E2D2D</color>
+    <color name="thirdBackColor">#12120A</color>
+    <color name="appbarColor">#333333</color>
+
+
+
+</resources>

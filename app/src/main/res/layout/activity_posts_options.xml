@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/mainBackground"
+        tools:context=".User.PostsOptionsActivity">
+
+        <Button
+            android:id="@+id/update_post_options"
+            style="@style/Widget.AppCompat.ActionButton.CloseMode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="UpdatePost"
+            android:text="Update"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toStartOf="@+id/delet_post_options"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <Button
+            android:id="@+id/delet_post_options"
+            style="@style/Widget.AppCompat.ActionButton.CloseMode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="DeletePost"
+            android:text="Delete"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+
+        <ImageView
+            android:id="@+id/post_image_options"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_margin="15dp"
+            android:src="@drawable/select_image"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/update_post_options" />
+
+        <EditText
+            android:id="@+id/description_post_options"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:background="@drawable/input"
+            android:padding="10dp"
+            android:text="Text description..."
+            android:textSize="18sp"
+            android:textColor="@color/colorBlack"
+            android:enabled="false"
+            app:layout_constraintStart_toStartOf="@+id/post_image_options"
+            app:layout_constraintTop_toBottomOf="@+id/post_image_options" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "346441673625",
+    "firebase_url": "https://social-book-c385e.firebaseio.com",
+    "project_id": "social-book-c385e",
+    "storage_bucket": "social-book-c385e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346441673625:android:ee241a6bc82c96efb38108",
+        "android_client_info": {
+          "package_name": "com.example.socialbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346441673625-j0tqaobpkabvimf2qterf344ubltl7s4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.socialbook",
+            "certificate_hash": "64f38db639f5078b1202b740afc747887ec30253"
+          }
+        },
+        {
+          "client_id": "346441673625-o3gv8pj43vffpqjhku5llvli3448108b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDByK4axPEDPbsKApz0AxiLT8e4fhT7cqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346441673625-o3gv8pj43vffpqjhku5llvli3448108b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
